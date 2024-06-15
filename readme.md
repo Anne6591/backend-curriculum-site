@@ -8,13 +8,7 @@
 
 This site is built with Jekyll. Find the docs [here](https://jekyllrb.com/docs/usage/)
 
-### Contributing
 
-* Clone the repo `git clone git@github.com:turingschool/backend-curriculum-site.git`
-* run `bundle install`
-* You can now begin to edit the website.
-* To start the server run `jekyll serve --incremental`.
-* Navigate to `localhost:4000` to see the site
 
 * make changes on the `gh-pages` branch.
 * you can push changes to production by pushing the `gh-pages` branch to github. `git push origin gh-pages`.
